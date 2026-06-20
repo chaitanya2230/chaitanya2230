@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Chaitanya 👋
 
-<!--
-**chaitanya2230/chaitanya2230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Software Developer | AI/ML Enthusiast | Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- Passionate about Software Development and Artificial Intelligence
+- Solved 200+ LeetCode Problems
+- 2★ CodeChef Programmer
+- Interested in building intelligent and scalable applications
+
+### 🛠️ Skills
+
+#### Programming Languages
+- Java
+- Python
+- C
+- JavaScript
+
+#### AI & Machine Learning
+- Machine Learning
+- Data Analysis
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+#### Web Development
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Express.js
+
+#### Databases
+- MySQL
+- SQLite3
+
+#### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+
+#### Core Computer Science
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+
+### 📈 Achievements
+🏆 Solved 200+ LeetCode Problems
+
+⭐ 2★ CodeChef Programmer
+
+### 🎯 Current Focus
+- Artificial Intelligence & Machine Learning
+- Full-Stack Development
+- Data Structures & Algorithms
+
+---
+💡 Building software, solving problems, and exploring AI-driven solutions.
