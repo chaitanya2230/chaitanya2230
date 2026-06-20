@@ -1,61 +1,28 @@
 # Hi, I'm Chaitanya 👋
 
-🎓 B.Tech Computer Science Student
+🎓 B.Tech Computer Science Engineering Student
 
-💻 Software Developer | AI/ML Enthusiast | Problem Solver
+💡 Aspiring Software Engineer passionate about AI/ML, Full-Stack Development, and Problem Solving.
 
-### 🚀 About Me
-- Passionate about Software Development and Artificial Intelligence
-- Solved 200+ LeetCode Problems
-- 2★ CodeChef Programmer
-- Interested in building intelligent and scalable applications
+### 🚀 Skills
+💻 Java • Python • C • JavaScript
 
-### 🛠️ Skills
+🌐 HTML • CSS • Flask • Express.js
 
-#### Programming Languages
-- Java
-- Python
-- C
-- JavaScript
+🗄️ MySQL • SQLite3
 
-#### AI & Machine Learning
-- Machine Learning
-- Data Analysis
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+🤖 Machine Learning • NumPy • Pandas • Data Analysis
 
-#### Web Development
-- HTML
-- CSS
-- JavaScript
-- Flask
-- Express.js
+⚙️ Git • GitHub
 
-#### Databases
-- MySQL
-- SQLite3
+### 🏆 Achievements
+• Solved 200+ LeetCode Problems
 
-#### Tools & Technologies
-- Git
-- GitHub
-- VS Code
+• 2★ CodeChef Programmer
 
-#### Core Computer Science
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Problem Solving
+### 🎯 Currently Exploring
+• Artificial Intelligence & Machine Learning
 
-### 📈 Achievements
-🏆 Solved 200+ LeetCode Problems
+• Full-Stack Development
 
-⭐ 2★ CodeChef Programmer
-
-### 🎯 Current Focus
-- Artificial Intelligence & Machine Learning
-- Full-Stack Development
-- Data Structures & Algorithms
-
----
-💡 Building software, solving problems, and exploring AI-driven solutions.
+• Advanced Data Structures & Algorithms
